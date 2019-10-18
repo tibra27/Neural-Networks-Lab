@@ -1,0 +1,3 @@
+Implement following Associative Memory Models:
+1) Auto Associative Memory Model
+2) Hetero Associative Memory Model
