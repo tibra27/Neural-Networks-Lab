@@ -1,0 +1,11 @@
+Enter # of input nodes:: 3
+Enter values of input nodes:: 1 0 1
+Enter # of hidden nodes:: 2
+Enter values of weights at hidden node 1 :: 
+0.2 0.4 -0.5
+Enter values of weights at hidden node 2 :: 
+-0.3 0.1 0.2
+Enter values of weights at output node:: 
+-0.3 -0.2
+Enter values of bias at hidden nodes:: -0.4 0.2
+Enter values of bias at output nodes:: 0.1
